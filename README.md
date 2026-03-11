@@ -2,6 +2,11 @@
 
 Interactive Excel dashboard for analyzing sales performance, profitability, and operational efficiency using real business data.
 
+### Executive Dashboard
+![Executive Dashboard](Business%20Dashboard.png)
+
+### Operational Insights
+![Operational Dashboard](Performance%20Insights.png)
 ---
 
 ## 🎯 Project Overview
@@ -90,22 +95,7 @@ Deep-dive analysis to understand performance drivers.
 
 ---
 
-## ▶️ How to Use
-
-1. Download **Sales_Analysis_Dashboard.xlsx**
-2. Open in Microsoft Excel (Desktop recommended)
-3. Use slicers to filter data interactively
-4. Navigate between dashboard sheets
-
----
-
 ## 👤 Author
 
 **Zaid Shatat**
 Data Science & AI Student
-
----
-
-## 📄 License
-
-MIT License
